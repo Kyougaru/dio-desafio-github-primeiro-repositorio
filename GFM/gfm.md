@@ -65,5 +65,6 @@ Github suporta emojis!
 :rocket: :metal: :octocat:
 ```
 ### Visualização:
+Github suporta emojis!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
